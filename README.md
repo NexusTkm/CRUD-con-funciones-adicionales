@@ -27,7 +27,7 @@
 <h2>Uso</h2>
 <ol>
   <li>Clona este repositorio en tu máquina local:</li>
-  <code>git clone https://github.com/TuUsuario/constructora-python.git</code>
+  <code>git clone https://github.com/NexusTkm/constructora-python.git</code>
   <li>Navega al directorio del proyecto:</li>
   <code>cd constructora-python</code>
   <li>Ejecuta el archivo principal:</li>
