@@ -10,6 +10,8 @@
 
 <p>Este es un proyecto desarrollado en Python que sirve como sistema de gestión para una constructora. Permite registrar, modificar, consultar, dar de baja y dar de alta productos almacenados en un archivo de texto. Además, proporciona funcionalidades para respaldar y listar los productos según su estado.</p>
 
+<p>Me gustaria hacerlo en Una base de datos y añadir una interfaz grafica<p>
+
 <h2>Funcionalidades</h2>
 <ul>
   <li>Registrar Producto: Permite agregar nuevos productos con su nombre, cantidad, precio y estatus.</li>
