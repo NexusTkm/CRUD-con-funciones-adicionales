@@ -8,7 +8,7 @@
 
 <h1>Sistema de Gestión para Constructora</h1>
 
-<p>Este es un proyecto desarrollado en Python que sirve como sistema de gestión para una constructora. Permite registrar, modificar, consultar, dar de baja y dar de alta productos almacenados en un archivo de texto. Además, proporciona funcionalidades para respaldar y listar los productos según su estado.</p>
+<p>Este es un proyecto desarrollado en Python que sirve como sistema de gestión. Permite registrar, modificar, consultar, dar de baja y dar de alta productos almacenados en un archivo de texto. Además, proporciona funcionalidades para respaldar y listar los productos según su estado.</p>
 
 <p>Me gustaria hacerlo en Una base de datos y añadir una interfaz grafica<p>
 
@@ -43,7 +43,7 @@
 <h2>Licencia</h2>
 <p>Este proyecto está bajo la Licencia MIT. Consulta el archivo <a href="LICENSE">LICENSE</a> para más detalles.</p>
 
-<p>¡Espero que encuentres útil este sistema de gestión para tu constructora! Si tienes alguna pregunta o sugerencia, no dudes en contactarme.</p>
+<p>¡Espero que encuentres útil este sistema de gestión! Si tienes alguna pregunta o sugerencia, no dudes en contactarme.</p>
 
 </body>
 </html>
